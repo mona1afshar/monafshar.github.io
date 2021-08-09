@@ -269,8 +269,9 @@ input, select, textarea {
 		h5 a {/*for icons*/
 			border-bottom: 0;
 			margin-bottom: -5em;
-			margin-right: 2.7em;
+			margin-right: 2.5em;
 			margin-top: 2em;
+			position: static;
 		}
 
 		h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
